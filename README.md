@@ -1,6 +1,8 @@
 # My Vue playground
 
-> A Vue.js project that I use to exercise and practice my skills.
+A Vue.js project that I use to exercise and practice my skills.
+
+> Check out the app here: https://roman-vue-playground.netlify.app/
 
 ## Build Setup
 
