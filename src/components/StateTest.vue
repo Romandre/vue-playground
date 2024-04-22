@@ -1,10 +1,10 @@
 <template>
   <div class="test-state">
     <div>
-      <h2>{{ doubleCounter }}</h2>
+      <h2>{{ testProperty }}</h2>
+      <p>(Counter value is stored by the Vues state management tool)</p>
+      <h3>{{ doubleCounter }}</h3>
       <p>Number of clicks: {{ stringCounter }}</p>
-      <p>{{ testProperty }}</p>
-      <p>(State Management store value)</p>
     </div>
     <button @click="incrementCounter(100)">Increment global counter</button>
     <button @click="decrementCounter(50)">Decrement global counter</button>

@@ -73,7 +73,7 @@ export default {
         "Add something more under me :)",
       ],
       textForFunctionalComp: [
-        { type: "h2", content: "Functional Component Example" },
+        { type: "h3", content: "Functional Component Example" },
         { type: "h4", content: "Yes, I'm functional component. Hello!" },
         {
           type: "p",

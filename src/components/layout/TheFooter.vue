@@ -1,7 +1,9 @@
 <template>
   <div class="footer">
     <p>Coded by <strong>Roman Kucherenko</strong></p>
-    <p>Link to code repo: ---</p>
+    <p>
+      Link to code repo (GitHub): https://github.com/Romandre/vue-playground
+    </p>
     <p>Be free to use my examples for your own purposes!</p>
   </div>
 </template>
