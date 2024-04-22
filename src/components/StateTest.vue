@@ -2,7 +2,7 @@
   <div class="test-state">
     <div>
       <h2>{{ testProperty }}</h2>
-      <p>(Counter value is stored by the Vues state management tool)</p>
+      <p>(Counter value is handled by the Vuex state management tool)</p>
       <h3>{{ doubleCounter }}</h3>
       <p>Number of clicks: {{ stringCounter }}</p>
     </div>
