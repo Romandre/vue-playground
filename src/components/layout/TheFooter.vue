@@ -2,7 +2,8 @@
   <div class="footer">
     <p>Coded by <strong>Roman Kucherenko</strong></p>
     <p>
-      Link to code repo (GitHub): https://github.com/Romandre/vue-playground
+      Link to code repo (GitHub):
+      <a href="https://github.com/Romandre/vue-playground">vue-playground</a>
     </p>
     <p>Be free to use my examples for your own purposes!</p>
   </div>
