@@ -78,7 +78,7 @@ export default {
         {
           type: "p",
           content:
-            "I don't have a state and a livecycle as a normal component.",
+            "I don't have a state and a lifecycle as a normal component.",
         },
         {
           type: "p",
